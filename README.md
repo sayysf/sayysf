@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
+
         <style>
            h2 {text-align: center;}
            div {text-align: center;}
@@ -18,4 +16,3 @@
 
         
     </body>
-</html>
